@@ -1,3 +1,3 @@
-date
-ls -ltr
-ls -lart
+pwd
+ls -lrt
+ps -ef |grep
